@@ -1,1 +1,1 @@
-# Logistic-regression-To-predict-heart-disease
+# Логистическая регрессия Для прогнозирования сердечных заболеваний
